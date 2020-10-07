@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Youtube Subscriptions Copier</title>
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+        <h2>YOUTUBE SUBSCRIPTIONS COPIER</h2>
+        <p></p>
+        <div id="container" class="container">
+            <div id="textareas" class="textareas">
+                <textarea
+                    name="xml"
+                    placeholder="Export subscriptions by going to https://www.youtube.com/subscription_manager and paste the contents of exported file here... "
+                    class="xml"
+                    id="xml"
+                ></textarea>
+                <textarea
+                    name="names"
+                    placeholder="After Exracting Channels,A Script will be generated here."
+                    id="names"
+                    class="name-array"
+                ></textarea>
+            </div>
+            <button id="extract-btn" class="btn">EXTRACT CHANNELS</button>
+        </div>
+        <script src="./script.js"></script>
+    </body>
+</html>
