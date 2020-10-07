@@ -11,8 +11,7 @@ This Website will transfer your subscriptions from previous account to new accou
 
 ## How to Copy channels?? 
 
-1.First of all login to your previous youtube account from which you want to copy your subscriptions and while logged in go to -
-> https://www.youtube.com/subscription_manager
+1.First of all login to your previous youtube account from which you want to copy your subscriptions and while logged in go to this link - <a href="https://www.youtube.com/subscription_manager" target="_blank">YOUTUBE SUBSCRIPTION MANAGER</a>
 
 2.Then go to Export Subscriptions on bottom of page,this will create a file containing all your subscribed channels information.Download the file.
 
@@ -60,15 +59,3 @@ This Website will transfer your subscriptions from previous account to new accou
 
 <br>
 <br>
-Distributed under the MIT license. 
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
