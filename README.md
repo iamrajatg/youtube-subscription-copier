@@ -28,7 +28,7 @@ This Website will transfer your subscriptions from previous account to new accou
 <img src="./assets/gifs/gif2.gif" alt="gif2">
 
 
-7.Now,Go to google chrome and login to the target youtube account to which you want to copy your subscriptions.
+7.Now,Go to google chrome,logout from source youtube account and login to the target youtube account to which you want to copy your subscriptions.
 
 8.Now ,in Google Chrome,go to this link and add this extension to chrome - <a href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk" target="_blank">Custom JavaScript for Websites 2</a>
 
