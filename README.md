@@ -7,9 +7,13 @@ Did you ever create a new Youtube account but all your favourite channels you su
 This Website will transfer your subscriptions from previous account to new account,just follow the instructions  and you will have all your channels in your new account in no time.
 
 
+## What do you need ??
+* Google Chrome
+* <a href="https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk" target="_blank">Custom JavaScript for Websites 2</a> Chrome Extension
+* Any Text Editor
 
 
-## How to Copy channels?? 
+## Step wise instructions on How to Copy channels 
 
 1.First of all login to your previous youtube account from which you want to copy your subscriptions and while logged in go to this link - <a href="https://www.youtube.com/subscription_manager" target="_blank">YOUTUBE SUBSCRIPTION MANAGER</a>
 
@@ -50,7 +54,10 @@ This Website will transfer your subscriptions from previous account to new accou
 
 13.Voila,all your subscriptions have been copied!!!
 
-14.When completed,delete the text copied from extension or remove the extension,otherwise,it will keep trying to subscribe every time you open youtube.
+14.When completed,remove the extension,otherwise,it will keep trying to subscribe every time you open youtube.
+
+<img src="./assets/gifs/gif6.gif" alt="gif6">
+
 
 ---
 
