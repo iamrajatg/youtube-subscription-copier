@@ -1,5 +1,5 @@
 # Youtube Subscriptions Copier
-> Transfer your youtube channel subscriptions from one youtube account to another without much hassle.
+> Copy your youtube channel subscriptions from one youtube account to another without much hassle.
 
 
 Did you ever create a new Youtube account but all your favourite channels you subscribed to over the years are in your previous account and now you have to search for all the channels again and subscribe to them manually which is very tedious if you have hundreds of channels in your previous account.
